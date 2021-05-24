@@ -2,7 +2,7 @@
 
 import midi	# The script will use MIDI functions.
 
-# This array contains list of FL Srtudio performance mode clip numbers.
+# This array contains list of FL Studio performance mode clip numbers.
 # From 0 to 11 - up to 12 clips placed on FL Studio track 1.
 # From 12 to 23 - up to 12 clips placed on track 2 and so on.
 # At the same time each array item value is MIDI note data1 value used by FL Studio to fire appropriate clip:
